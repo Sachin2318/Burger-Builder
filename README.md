@@ -1,4 +1,4 @@
-# BURGER_BUILDER_REACT_JS
+# Burger Builder
 
 Burger Builder is an online food ordering application where users can order burgers by choosing their desired ingredients.
 
